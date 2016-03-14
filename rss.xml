@@ -4,8 +4,15 @@
         <description><![CDATA[my name is bob dow, this is some stuff i'm working on ]]></description>
         <link>https://thegrid.ai/bobdow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 21:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 21:17:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bobdow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f0994d3-87fd-412a-a6d1-b4b292a83248.png">]]></description>
+            <link>https://thegrid.ai/bobdow/b07d59c1-db52-49ea-a016-c180be4550e7/index.html</link>
+            <guid isPermaLink="false">b07d59c1-db52-49ea-a016-c180be4550e7</guid>
+            <pubDate>Mon, 14 Mar 2016 21:16:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9d38473-4124-4eaf-af34-5e5bb4c31d03.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bobdow/b4270d1a-51ab-415d-8ba0-bcab2885f353/index.html</link>
             <guid isPermaLink="false">b4270d1a-51ab-415d-8ba0-bcab2885f353</guid>
             <pubDate>Mon, 14 Mar 2016 18:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a569cbc0-cfe2-469c-b75b-1ab8de11a97e.png">]]></description>
-            <link>https://thegrid.ai/bobdow/68da5afe-0045-48a4-a5de-8194118c2ffb/index.html</link>
-            <guid isPermaLink="false">68da5afe-0045-48a4-a5de-8194118c2ffb</guid>
-            <pubDate>Mon, 14 Mar 2016 18:27:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
