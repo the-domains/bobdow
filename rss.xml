@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[my name is bob dow, this stuff i'm working on ]]></title>
-        <description><![CDATA[my name is bob dow, this stuff i'm working on ]]></description>
+        <title><![CDATA[my name is bob dow, this is some stuff i'm working on ]]></title>
+        <description><![CDATA[my name is bob dow, this is some stuff i'm working on ]]></description>
         <link>https://thegrid.ai/bobdow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 19:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 19:38:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bobdow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb276535-0964-4975-bcaa-b53da7b84bb2.jpg">]]></description>
+            <link>https://thegrid.ai/bobdow/d29bb158-a772-4a31-a899-8af9527fed8a/index.html</link>
+            <guid isPermaLink="false">d29bb158-a772-4a31-a899-8af9527fed8a</guid>
+            <pubDate>Mon, 14 Mar 2016 19:38:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeac8eec-76bb-4eda-87cc-ef6ef4f83233.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bobdow/acfd6c93-4ac7-4401-a266-f1eb44f49cc6/index.html</link>
             <guid isPermaLink="false">acfd6c93-4ac7-4401-a266-f1eb44f49cc6</guid>
             <pubDate>Mon, 14 Mar 2016 17:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/980b6d71-ec5e-4a0f-a805-e456fe60d9f5.jpg">]]></description>
-            <link>https://thegrid.ai/bobdow/47dd4df1-02c4-4843-9b2e-7f59d78d43f3/index.html</link>
-            <guid isPermaLink="false">47dd4df1-02c4-4843-9b2e-7f59d78d43f3</guid>
-            <pubDate>Mon, 14 Mar 2016 17:44:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
