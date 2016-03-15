@@ -4,8 +4,15 @@
         <description><![CDATA[my name is bob dow, this is some stuff i'm working on ]]></description>
         <link>https://thegrid.ai/bobdow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 05:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 05:30:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bobdow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2af9b044-0257-4c44-a2d5-88bf2bfb4c2e.png">]]></description>
+            <link>https://thegrid.ai/bobdow/3d039399-2168-4ef8-bfc8-8c3984811593/index.html</link>
+            <guid isPermaLink="false">3d039399-2168-4ef8-bfc8-8c3984811593</guid>
+            <pubDate>Tue, 15 Mar 2016 05:30:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/322abda5-f538-431d-96a3-9a90a1492742.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bobdow/its-holographic-vinyl/index.html</link>
             <guid isPermaLink="false">1951eb2e-ac3b-400f-853d-e67eaa70843c</guid>
             <pubDate>Tue, 15 Mar 2016 04:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8943e886-38a4-43b1-9e55-5d6390ff78a6.jpg">]]></description>
-            <link>https://thegrid.ai/bobdow/2f2d8eef-2674-45af-beb1-964f0d943378/index.html</link>
-            <guid isPermaLink="false">2f2d8eef-2674-45af-beb1-964f0d943378</guid>
-            <pubDate>Tue, 15 Mar 2016 04:40:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
