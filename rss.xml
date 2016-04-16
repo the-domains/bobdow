@@ -4,8 +4,15 @@
         <description><![CDATA[my name is bob dow, this is some stuff i'm working on ]]></description>
         <link>https://thegrid.ai/bobdow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 18:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 18:42:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bobdow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39b06c87-adfc-46c9-b312-7c4e60038cea.jpg">]]></description>
+            <link>https://thegrid.ai/bobdow/ba1082a7-a34b-41bf-9cd6-5ef0802ad034/index.html</link>
+            <guid isPermaLink="false">ba1082a7-a34b-41bf-9cd6-5ef0802ad034</guid>
+            <pubDate>Sat, 16 Apr 2016 18:41:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3c3f5b2-62d1-41f6-aae8-b0413cb74c4b.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bobdow/our-friends-got-married-on-halloween/index.html</link>
             <guid isPermaLink="false">611092c6-7597-47ce-90ea-1d2367d7abbe</guid>
             <pubDate>Wed, 30 Mar 2016 03:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39711a1d-91c5-4a3d-8a2a-99c989841962.jpg">]]></description>
-            <link>https://thegrid.ai/bobdow/d637d85f-e628-4568-8046-eefb762e15e9/index.html</link>
-            <guid isPermaLink="false">d637d85f-e628-4568-8046-eefb762e15e9</guid>
-            <pubDate>Mon, 28 Mar 2016 20:27:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
