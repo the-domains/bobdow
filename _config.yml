@@ -2,7 +2,7 @@ name: bobdow
 favicon: null
 layout_spectrum: 0.48939
 typography_spectrum: 0.09051308920606971
-title: "my name is bob dow, this is some stuff i'm working on "
+title: 'my name is bob dow, this is some stuff i''m working on '
 cta:
   domain: null
   bucket: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.0625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
